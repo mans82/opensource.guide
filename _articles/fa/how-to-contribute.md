@@ -1,15 +1,15 @@
 ---
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+lang: fa
+title: چگونه در پروژه های متن باز مشارکت کنیم؟
+description: می‌خواهید در پروژه های متن باز مشارکت کنید؟ این یک راهنمای مشارکت در پروژه های متن باز است; چه برای تازه وارد ها و چه برای کهنه کار ها.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
-  orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
-  finding-a-project-to-contribute-to: "Finding a project to contribute to"
-  how-to-submit-a-contribution: "How to submit a contribution"
-  what-happens-after-you-submit-a-contribution: "What happens after you submit a contribution"
+  why-contribute-to-open-source: "چرا در یک پروژه متن باز مشارکت کنیم؟"
+  what-it-means-to-contribute: "مشارکت کردن یعنی چه؟"
+  orienting-yourself-to-a-new-project: "آشنا شدن با یک پروژه جدید"
+  finding-a-project-to-contribute-to: "پیدا کردن یک پروژه برای مشارکت"
+  how-to-submit-a-contribution: "چگونه مشارکت خود را ارسال کنیم"
+  what-happens-after-you-submit-a-contribution: "بعد از ارسال مشارکت چه می‌شود؟"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -21,15 +21,15 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  کار کردن روی  \[freenode\] به من کمک کرد تا خیلی از مهارت هایی که بعد ها در دانشگاه و شغل اصلی‌ام استفاده کردم، یاد بگیرم. به نظر من کار کردن روی پروژه های متن باز، همان قدر که برای پروژه مفید است، برای خود من هم مفید است. 
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["چرا عاشق مشارکت در پروژه های متن باز هستم"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+مشارکت در یک پروژه متن باز می‌تواند راهی فوق العاده برای یاد گرفتن، یاد دادن، و کسب تجربه در هر موضوعی که فکرش را بکنید باشد.
 
-Why do people contribute to open source? Plenty of reasons!
+چرا افرادی در پروژه های متن باز مشارکت می‌کنند؟‌ هزار و یک دلیل وجود دارد!
 
 ### Improve existing skills
 
