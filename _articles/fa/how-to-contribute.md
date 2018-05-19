@@ -17,11 +17,11 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## چرا در پروژه های متن باز مشارکت کنیم؟
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  کار کردن روی  \[freenode\] به من کمک کرد تا خیلی از مهارت هایی که بعد ها در دانشگاه و شغل اصلی‌ام استفاده کردم، یاد بگیرم. به نظر من کار کردن روی پروژه های متن باز، همان قدر که برای پروژه مفید است، برای خود من هم مفید است. 
+  کار کردن روی  \[freenode\] به من کمک کرد تا خیلی از مهارت هایی که بعد ها در دانشگاه و شغلم استفاده کردم، یاد بگیرم. به نظر من کار کردن روی پروژه های متن باز، همان قدر که برای پروژه مفید است، برای خود من هم مفید است. 
   <p markdown="1" class="pquote-credit">
 — @errietta, ["چرا عاشق مشارکت در پروژه های متن باز هستم"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -31,17 +31,17 @@ related:
 
 چرا افرادی در پروژه های متن باز مشارکت می‌کنند؟‌ هزار و یک دلیل وجود دارد!
 
-### Improve existing skills
+### مهارت هایتان را تقویت می‌کنید
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+در یک پروژه متن باز همه جور کاری برای انجام دادن هست. چه کد زدن باشد، چه طراحی UI، چه طراحی گرافیک، چه نوشتن مستندات و چه سازماندهی کارها.
 
-### Meet people who are interested in similar things
+### با کسانی که با شما علایق مشترک دارند آشنا می‌شوید
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+پروژه های متن بازی که جامعه‌ی کاربری گرم و صمیمی دارند، مشارکت کنندگانی دارند که تا چند سال با اشتیاق روی پروژه کار می‌کنند. خیلی ها در حال کار کردن روی پروژه دوست های صمیمی هم برای خود پیدا می‌کنند، چه هنگامی که در یک همایش همدیگر را می‌بینند، چه وقتی که نصفه شب درباره‌ی سمبوسه بندری چت می‌کنند!
 
-### Find mentors and teach others
+### یاد می‌دهید، یاد می‌گیرید
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+کار کردن روی یک پروژه‌ی مشترک به این معنی است که باید به دیگران توضیح دهید که چگونه کارتان را انجام می‌دهید، همان طور که از دیگران کمک و راهنمایی می‌گیرید. همین یاد دادن و یاد گرفتن می‌تواند برای هر کسی جالب و مفید باشد.
 
 ### Build public artifacts that help you grow a reputation (and a career)
 
