@@ -51,19 +51,20 @@ related:
 
 پروژه های متن باز فرصتی برای تمرین مهارت های مدیریتی هستند، مانند برطرف کردن اختلافات، سازماندهی گروه هایی که روی پروژه کار می‌کنند، و اولویت دادن به کارها.
 
-### It's empowering to be able to make changes, even small ones
+### همه، حتی کوچکترین ها هم، می‌توانند تغییر بدهند
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+لازم نیست که حتما از صفر روی پروژه کار کرده باشید تا لذت مشارکت در آن را بچشید. تا حالا شده که یک غلط تایپی کوچک را در یک وب سایت دیده باشید، و با خودتان می‌گفتید که ای کاش کسی آن را اصلاح می‌کرد؟ پروژه های متن باز به مردم کمک می‌کنند تا این حس را داشته باشند که وقتی به پروژه کمک می‌کنند در واقع به خودشان دارند کمک می‌کنند، و این حس خوبی است.
 
-## What it means to contribute
+## مشارکت کردن یعنی چه؟
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+اگر تا به حال در پروژه‌ی متن بازی شرکت نکرده اید، فرآیندش می‌تواند وحشتناک باشد. چگونه باید پروژه مناسب خود را پیدا کنید؟ اگر کد زدن بلد نیستید باید چه کنید؟ چه می‌شود اگر جایی اشتباه کنید؟
 
 Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
+نگران نباشید! از راه های زیادی می‌توانید با یک پروژه همراه شوید، و چند توصیه کوچک هم به شما کمک می‌کند تا بهترین تجربه را حین کار کردن روی پروژه داشته باشید.
 
-### You don't have to contribute code
+### لازم نیست حتما کد بزنید
 
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+یک تصور اشتباه درباره‌ی مشارکت در پروژه های متن باز این است که حتما باید برای پروژه کد بزنید. در واقع، این بخش های دیگر پروژه هستند که [بیشتر نادیده گرفته شده اند](https://github.com/blog/2195-the-shape-of-open-source). با فعالیت در آن بخش ها کمک _بسیار زیادی_ به پروژه خواهید کرد!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
