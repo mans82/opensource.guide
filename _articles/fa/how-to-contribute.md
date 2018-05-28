@@ -53,13 +53,12 @@ related:
 
 ### همه، حتی کوچکترین ها هم، می‌توانند تغییر بدهند
 
-لازم نیست که حتما از صفر روی پروژه کار کرده باشید تا لذت مشارکت در آن را بچشید. تا حالا شده که یک غلط تایپی کوچک را در یک وب سایت دیده باشید، و با خودتان می‌گفتید که ای کاش کسی آن را اصلاح می‌کرد؟ پروژه های متن باز به مردم کمک می‌کنند تا این حس را داشته باشند که وقتی به پروژه کمک می‌کنند در واقع به خودشان دارند کمک می‌کنند، و این حس خوبی است.
+لازم نیست که حتما از صفر روی پروژه کار کرده باشید تا لذت مشارکت در آن را بچشید. تا حالا شده که یک غلط تایپی کوچک را در یک وب سایت دیده باشید، و با خودتان می‌گفتید که ای کاش کسی آن را اصلاح می‌کرد؟ پروژه های متن باز به مردم کمک می‌کنند تا این حس را داشته باشند که وقتی به پروژه ای کمک می‌کنند در واقع دارند به خودشان کمک می‌کنند، و این حس خوبی است.
 
 ## مشارکت کردن یعنی چه؟
 
 اگر تا به حال در پروژه‌ی متن بازی شرکت نکرده اید، فرآیندش می‌تواند وحشتناک باشد. چگونه باید پروژه مناسب خود را پیدا کنید؟ اگر کد زدن بلد نیستید باید چه کنید؟ چه می‌شود اگر جایی اشتباه کنید؟
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
 نگران نباشید! از راه های زیادی می‌توانید با یک پروژه همراه شوید، و چند توصیه کوچک هم به شما کمک می‌کند تا بهترین تجربه را حین کار کردن روی پروژه داشته باشید.
 
 ### لازم نیست حتما کد بزنید
@@ -68,13 +67,13 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+  من از طریق کار کردن روی CocoaPods معروف شدم، ولی اکثر مردم نمی‌دانند که من در واقع کار خاصی روی خود ابزار CocoaPods انجام نمی‌دهم. من بیشتر روی مستندات پروژه و برندینگ کار می‌کنم.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+حتی اگر علاقه به کد نویسی دارید، مشارکت به گونه های دیگر هم راه خوبی است تا با یک پروژه همراه شوید و با اعضای دیگر پروژه آشنا شوید. آشنایی با آنها به شما فرصت کار کردن روی بخش های دیگر را هم می‌دهد.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
